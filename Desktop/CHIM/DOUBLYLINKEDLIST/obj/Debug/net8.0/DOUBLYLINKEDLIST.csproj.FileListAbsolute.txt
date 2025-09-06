@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\CHIM\DOUBLYLINKEDLIST\bin\Debug\net8.0\DOUBLYLINKEDLIST.exe
+C:\Users\Student\Desktop\CHIM\DOUBLYLINKEDLIST\bin\Debug\net8.0\DOUBLYLINKEDLIST.deps.json
+C:\Users\Student\Desktop\CHIM\DOUBLYLINKEDLIST\bin\Debug\net8.0\DOUBLYLINKEDLIST.runtimeconfig.json
+C:\Users\Student\Desktop\CHIM\DOUBLYLINKEDLIST\bin\Debug\net8.0\DOUBLYLINKEDLIST.dll
+C:\Users\Student\Desktop\CHIM\DOUBLYLINKEDLIST\bin\Debug\net8.0\DOUBLYLINKEDLIST.pdb
+C:\Users\Student\Desktop\CHIM\DOUBLYLINKEDLIST\obj\Debug\net8.0\DOUBLYLINKEDLIST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\CHIM\DOUBLYLINKEDLIST\obj\Debug\net8.0\DOUBLYLINKEDLIST.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\CHIM\DOUBLYLINKEDLIST\obj\Debug\net8.0\DOUBLYLINKEDLIST.AssemblyInfo.cs
+C:\Users\Student\Desktop\CHIM\DOUBLYLINKEDLIST\obj\Debug\net8.0\DOUBLYLINKEDLIST.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\CHIM\DOUBLYLINKEDLIST\obj\Debug\net8.0\DOUBLYLINKEDLIST.dll
+C:\Users\Student\Desktop\CHIM\DOUBLYLINKEDLIST\obj\Debug\net8.0\refint\DOUBLYLINKEDLIST.dll
+C:\Users\Student\Desktop\CHIM\DOUBLYLINKEDLIST\obj\Debug\net8.0\DOUBLYLINKEDLIST.pdb
+C:\Users\Student\Desktop\CHIM\DOUBLYLINKEDLIST\obj\Debug\net8.0\DOUBLYLINKEDLIST.genruntimeconfig.cache
+C:\Users\Student\Desktop\CHIM\DOUBLYLINKEDLIST\obj\Debug\net8.0\ref\DOUBLYLINKEDLIST.dll
